@@ -8,7 +8,7 @@
 module("L_AutoVirtualThermostat1", package.seeall)
 
 local _PLUGIN_NAME = "AutoVirtualThermostat"
-local _PLUGIN_VERSION = "1.1"
+local _PLUGIN_VERSION = "1.1dt"
 local _CONFIGVERSION = 010100
 
 local debugMode = true
